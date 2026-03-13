@@ -1,3 +1,10 @@
+![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![ML Framework](https://img.shields.io/badge/Scikit--Learn-1.4.0-orange.svg)
+![Web Framework](https://img.shields.io/badge/Streamlit-1.30.0-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+
 # 🥋 Sistema de Apoyo a la Planificación Logística - Karate-Do
 
 <div align="center">
