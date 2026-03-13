@@ -351,7 +351,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **¿Preguntas o colaboraciones?**
 
-- 📧 Email: [tu-email@udla.edu.ec](mailto:tu-email@udla.edu.ec)
+- 📧 Email: [carla.lopez.arboleda@udla.edu.ec](mailto:carla.lopez.arboleda@udla.edu.ec)
+             [daniela.martinez.porte@udla.edu.ec](mailto:daniela.martinez.porte@udla.edu.ec)
 - 🐛 Issues: [GitHub Issues](https://github.com/TaiLung1978/CapstoneEstimacionKarate/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/TaiLung1978/CapstoneEstimacionKarate/discussions)
 
