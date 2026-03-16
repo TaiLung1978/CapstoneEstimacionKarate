@@ -150,16 +150,16 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`
 ## 🖼️ Capturas de Pantalla
 
 ### Interfaz Principal
-![Interfaz](https://via.placeholder.com/800x400?text=Agregar+screenshot+de+app.py)
+![Interfaz](docs/screenshots/interfaz_inicial.png)
 
 ### Predicción con Recomendaciones
-![Predicción](https://via.placeholder.com/800x400?text=Agregar+screenshot+de+predicción)
+![Predicción](docs/screenshots/prediccion_exitosa.png)
 
 ### Feature Importance
-![Features](feature_importance.png)
+![Features](docs/screenshots/feature_importance.png)
 
 ### Comparación de Modelos
-![Comparación](comparacion_modelos_cv.png)
+![Comparación](docs/screenshots/comparacion_modelos_cv.png)
 
 ---
 
